@@ -1,0 +1,98 @@
+American Goldfinch;Spinus tristis;Least Concern;Yellow;seeds, insects
+American Purple Gallinule;Porphyrio martinicus;Least Concern;Blue;frogs, seeds, leaves, fish
+American Redstart;Setophaga ruticilla;Least Concern;Black;flying insects
+Amsterdam Albatross;Diomedea amsterdamensis;Endangered;Black;squid, fish, crustaceans
+Arctic Tern;Sterna paradisaea;Least Concern;White;fish, crustaceans
+Bald Eagle;Haliaeetus leucocephalus;Least Concern;Brown;fish, small mammals, birds
+Belted Kingfisher;Megaceryle alcyon;Least Concern;Grey;fish, insects, crustaceans, amphibians
+Black-Crowned Night Heron;Nycticorax nycticorax;Least Concern;Grey;fish, crustaceans, frogs, insects
+Blue Footed Booby;Sula nebouxii;Least Concern;White;fish, squid
+Blue Jay;Cyanocitta cristata;Least Concern;Blue;nuts, grain, corn, berries, insects
+Blue Manakin;Chiroxiphia caudata;Least Concern;Blue;fruit, berries, insects
+Bokikokiko;Acrocephalus aequinoctialis;Endangered;Grey;flies, dragonflies, small lizards
+Brown Creeper;Certhia americana;Least Concern;Brown;insects, suet, seeds
+Buff-Spotted Flufftail;Sarothrura elegans;Least Concern;Black;ants, small insects
+Bumblebee Hummingbird;Atthis heloisa;Least Concern;Green;nectar, spiders
+Carolina Wren;Thryothorus ludovicianus;Least Concern;Brown;insects, fruits, seeds
+Cave Swallow;Petrochelidon fulva;Least Concern;Brown;flying insects
+Common Buttonquail;Turnix sylvaticus;Least Concern;Brown;seeds, insects, larvae
+Common Ostrich;Struthio camelus;Least Concern;Black;seeds, shrubs, grass, fruit, flowers, insects
+Common Pheasant;Phasianus colchicus;Least Concern;Brown;fruit, seeds, grain, leaves
+Common Raven;Corvus corax;Least Concern;Black;carrion, grain, berries, insects, small animals, garbage
+Common Sandpiper;Actitis hypoleucos;Least Concern;White;larvae, snails, crustaceans, crabs, clams
+Crested Caracara;Caracara cheriway;Least Concern;Brown;carcasses
+Dark-Eyed Junco;Junco hyemalis;Least Concern;Black;seeds, insects
+Double-Crested Cormorant;Phalacrocorax auritus;Least Concern;Black;fish
+Eastern Screech Owl;Megascops asio;Least Concern;Brown;insects, crayfish, small mammals
+Eastern Whip-Poor-Will;Antrostomus vociferus;Least Concern;Brown;flying insects
+Elegant Sunbird;Aethopyga duyvenbodei;Endangered;Yellow;insects, nectar
+Elegant Trogon;Trogon elegans;Least Concern;Red;insects, fruit
+Emperor Goose;Chen canagica;Near Threatened;Grey;shoots, roots, berries
+Flame Bowerbird;Sericulus ardens;Least Concern;Yellow;fruit, insects
+Fork-Tailed Flycatcher;Tyrannus savana;Least Concern;White;flying insects
+Gambel's Quail;Callipepla gambelii Family: Odontophoridae;Least Concern;Blue;insects, plants
+Golden White-Eye;Cleptornis marchei;Endangered;Yellow;insects, fruit, nectar
+Gouldian Finch;Erythrura gouldiae;Near Threatened;Green;seeds
+Great Blue Heron;Ardea herodias;Least Concern;Grey;fish, crabs, insects, frogs
+Great Curassow;Crax rubra;Vulnerable;Black;fruits, anthropods
+Great Frigatebird;Fregata minor;Least Concern;Black;fish, crabs, jellyfish
+Great Hornbill;Buceros bicornis;Near Threatened;Black;fruit
+Great Potoo;Nyctibius grandis;Least Concern;Brown;flying insects
+Great White Pelican;Pelecanus onocrotalus;Least Concern;White;fish
+Greater Flamingo;Phoenicopterun roseus;Least Concern;Pink;plankton, tiny fish, crustaceans
+Harpy Eagle;Harpia harpyja;Near Threatened;Grey;monkeys, birds, sloths,
+Hawaiian Stilt;Himantopus mexicanus knudseni;Endangered;Black;fish, crabs, worms, insects
+Hoatzin;Ophisthocomus hoazin;Least Concern;Brown;leaves, fruit, flowers
+Kakapo;Strigops habroptilus;Critically Endangered;Green;plants, seeds, fruits, pollen
+King Vulture;Sarcoramphus papa;Least Concern;White;carcasses, dead fish, dead lizards
+Laughing Falcon;Herpetotheres cachinnans;Least Concern;Brown;snakes, lizards, rodents
+Laughing Kookaburra;Dacelo novaeguineae;Least Concern;Brown;mice, insects, fish
+Lear's Macaw;Anodorhynchus leari;Endangered;Blue;licuri palm nuts
+Little Spotted Kiwi;Apteryx owenii;Near Threatened;Brown;grubs, insects, berries
+Macaroni Penguin;Eudyptes chrysolophus;Vulnerable;White;crustaceans, squid, fish
+Mallard;Anas platyrhynchos;Least Concern;Brown;insects, worms, crustaceans, seeds, plants
+Mourning Dove;Zenaida macroura;Least Concern;Brown;seeds, snails, insects
+Narcissus Flycatcher;Ficedula narcissina;Least Concern;Yellow;Insects
+Nene;Branta sandvicensis;Vulnerable;Brown;leaves, seeds, flowers, grasses
+Northern Cardinal;Cardinalis cardinalis;Least Concern;Red;seeds, grain, fruit, insects
+Ovenbird;Seiurus aurocapilla;Least Concern;Brown;insects
+Peregrine Falcon;Falco peregrinus;Least Concern;Grey;pigeons, doves, waterfowl, songbirds
+Pied Avocet;Recurvirostra avosetta;Least Concern;White;crustaceans, insects
+Pileated Woodpecker;Dryocopus pileatus;Least Concern;Black;insects, fruit, nuts, berries
+Pink Robin;Petroica rodinogaster;Least Concern;Pink;spiders, caterpillars, beetles
+Pinyon Jay;Gymnorhinus cyanocephalus;Vulnerable;Blue;pinyon seeds, pine seeds
+Razorbill;Alca torda;Least Concern;White;fish, crustaceans
+Red-Billed Oxpecker;Buphagus erythrorhynchus;Least Concern;Brown;blood, ticks, mites
+Red-Breasted Nuthatch;Sitta canadensis;Least Concern;Grey;insects, conifer seeds, suet
+Red-Tailed Tropicbird;Phaethon rubricauda;Least Concern;White;squid, flying fish
+Red-Whiskered Bulbul;Pycnonotus jocosus;Least Concern;Brown;fruit, insects
+Regent Honeyeater;Anthochaera phrygia;Critically Endangered;Black;eucalyptus nectar, insect honeydew
+Ring-Billed Gull;Larus delawarensis;Least Concern;White;insects, fish, grains, food scraps
+Rock Dove;Columba livia;Least Concern;Grey;fruits, grains, insects, seeds, food scraps
+Roseate Spoonbill;Platalea ajaja;Least Concern;Pink;crustaceans, aquatic insects, frogs, newts and small fish
+Rose-Breasted Gosbeak;Pheucticus ludovicianus;Least Concern;White;insects, seeds, berries
+Ruby-Crowned Kinglet;Regulus calendula;Least Concern;Brown;insects, fruit, seeds
+Ruby-Throated Hummingbird;Archilochus columbris;Least Concern;Green;flower nectar, insects
+Rudd's Lark;Heteromirafra ruddi;Vulnerable;Brown;insects
+Scarlet Tanager;Piranga olivacea;Least Concern;Red;insects, berries, seeds, snails
+Secretarybird;Sagittarius serpentarius;Vulnerable;White;insects, small mammals, lizards, snakes
+Sharp-Shinned Hawk;Accipiter striatus;Least Concern;Brown;birds, rodents
+Shoebill;Balaeniceps rex;Vulnerable;Grey;fish, frogs, snakes
+Sierra Madre Sparrow;Xenospiza baileyi;Endangered;Brown;insects, seeds
+Smooth-Billed Ani;Crotophaga ani;Least Concern;Black;insects, lizards, termites
+Snail Kite;Rostrhamus sociabilis;Least Concern;Grey;snails, crayfish
+Snowy Owl;Bubo scandiacus;Vulnerable;White;small mammals, birds
+Spoon-Billed Sandpiper;Calidris pygmaea;Critically Endangered;Brown;mosquitoes, moss, spiders, shrimp
+Superb Bird-of-Paradise;Lophorina superba;Least Concern;Black;fruit, insects, frogs, seeds
+Tawny Frogmouth;Podargus strigoides;Least Concern;Brown;large insects
+Toco Toucan;Ramphastos toco;Least Concern;Black;fruit, insects, frogs, eggs
+Tricolored Blackbird;Agelaius tricolor;Endangered;Black;beetles, snails, insects, seeds
+Tufted Puffin;Fratercula cirrhata;Least Concern;Black;fish, squid, krill
+Victoria Crowned Pigeon;Goura victoria;Near Threatened;Blue;seeds, invertebrates
+Violet-Backed Starling;Cinnyricinclus leucogaster;Least Concern;Pink;fruit, seeds, insects
+Vulturine Guineafowl;Acryllium vulturinum;Least Concern;Blue;seeds, small invertebrates
+White Wagtail;Motacilla alba;Least Concern;White;aquatic insects, snails, small fish, crustaceans
+Whooping Crane;Grus americana;Endangered;White;crustaceans, mollusks, fish, eels
+Wilson's Bird-Of-Paradise;Cicinnurus respublica;Near Threatened;Red;fruit, insects
+Wood Duck;Aix sponsa;Least Concern;Brown;berries, seeds, insects
+Yellow Bellied Sapsucker;Sphyrapicus varius;Least Concern;Black;tree sap, fruit, insects

@@ -1,0 +1,67 @@
+Abyssinian;14.0;15.0;7.0;10.0;Active, Energetic, Independent, Intelligent, Gentle;Egypt
+Aegean;9.0;12.0;7.0;10.0;Affectionate, Social, Intelligent, Playful, Active;Greece
+American Bobtail;11.0;15.0;7.0;16.0;Intelligent, Interactive, Lively, Playful, Sensitive;United States
+American Curl;12.0;16.0;5.0;10.0;Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social;United States
+American Shorthair;15.0;17.0;8.0;15.0;Active, Curious, Easy Going, Playful, Calm;United States
+American Wirehair;14.0;18.0;8.0;15.0;Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social;United States
+Arabian Mau;12.0;14.0;8.0;16.0;Affectionate, Agile, Curious, Independent, Playful, Loyal;United Arab Emirates
+Australian Mist;12.0;16.0;7.0;15.0;Lively, Social, Fun-loving, Relaxed, Affectionate;Australia
+Balinese;10.0;15.0;4.0;10.0;Affectionate, Intelligent, Playful;United States
+Bambino;12.0;14.0;4.0;9.0;Affectionate, Lively, Friendly, Intelligent;United States
+Bengal;12.0;15.0;6.0;12.0;Alert, Agile, Energetic, Demanding, Intelligent;United States
+Birman;14.0;15.0;6.0;15.0;Affectionate, Active, Gentle, Social;France
+Bombay;12.0;16.0;6.0;11.0;Affectionate, Dependent, Gentle, Intelligent, Playful;United States
+British Longhair;12.0;14.0;8.0;18.0;Affectionate, Easy Going, Independent, Intelligent, Loyal, Social;United Kingdom
+British Shorthair;12.0;17.0;12.0;20.0;Affectionate, Easy Going, Gentle, Loyal, Patient, calm;United Kingdom
+Burmese;15.0;16.0;6.0;12.0;Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively;Burma
+Burmilla;10.0;15.0;6.0;13.0;Easy Going, Friendly, Intelligent, Lively, Playful, Social;United Kingdom
+California Spangled;10.0;14.0;10.0;15.0;Affectionate, Curious, Intelligent, Loyal, Social;United States
+Chantilly-Tiffany;14.0;16.0;7.0;12.0;Affectionate, Demanding, Interactive, Loyal;United States
+Chartreux;12.0;15.0;6.0;15.0;Affectionate, Loyal, Intelligent, Social, Lively, Playful;France
+Chausie;12.0;14.0;7.0;15.0;Affectionate, Intelligent, Playful, Social;Egypt
+Cheetoh;12.0;14.0;8.0;15.0;Affectionate, Gentle, Intelligent, Social;United States
+Colorpoint Shorthair;12.0;16.0;4.0;10.0;Affectionate, Intelligent, Playful, Social;United States
+Cornish Rex;11.0;14.0;5.0;9.0;Affectionate, Intelligent, Active, Curious, Playful;United Kingdom
+Cymric;8.0;14.0;8.0;13.0;Gentle, Loyal, Intelligent, Playful;Canada
+Cyprus;12.0;15.0;8.0;16.0;Affectionate, Social;Cyprus
+Devon Rex;10.0;15.0;5.0;10.0;Highly interactive, Mischievous, Loyal, Social, Playful;United Kingdom
+Donskoy;12.0;15.0;10.0;12.0;Playful, affectionate, loyal, social;Russia
+Dragon Li;12.0;15.0;9.0;12.0;Intelligent, Friendly, Gentle, Loving, Loyal;China
+Egyptian Mau;18.0;20.0;6.0;14.0;Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful;Egypt
+European Burmese;10.0;15.0;7.0;14.0;Sweet, Affectionate, Loyal;Burma
+Exotic Shorthair;12.0;15.0;7.0;14.0;Affectionate, Sweet, Loyal, Quiet, Peaceful;United States
+Havana Brown;10.0;15.0;6.0;10.0;Affectionate, Curious, Demanding, Friendly, Intelligent, Playful;United Kingdom
+Himalayan;9.0;15.0;7.0;14.0;Dependent, Gentle, Intelligent, Quiet, Social;United States
+Japanese Bobtail;14.0;16.0;5.0;10.0;Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social;Japan
+Javanese;10.0;12.0;5.0;10.0;Active, Devoted, Intelligent, Playful;United States
+Khao Manee;10.0;12.0;8.0;12.0;Calm, Relaxed, Talkative, Playful, Warm;Thailand
+Korat;10.0;15.0;7.0;11.0;Active, Loyal, highly intelligent, Expressive, Trainable;Thailand
+Kurilian;15.0;20.0;8.0;15.0;Independent, highly intelligent, clever, inquisitive, sociable, playful, trainable;Russia
+LaPerm;10.0;15.0;6.0;10.0;Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet;Thailand
+Maine Coon;12.0;15.0;12.0;18.0;Adaptable, Intelligent, Loving, Gentle, Independent;United States
+Malayan;12.0;18.0;6.0;13.0;Affectionate, Interactive, Playful, Social;United Kingdom
+Manx;12.0;14.0;7.0;13.0;Easy Going, Intelligent, Loyal, Playful, Social;Isle of Man
+Munchkin;10.0;15.0;5.0;9.0;Agile, Easy Going, Intelligent, Playful;United States
+Nebelung;11.0;16.0;7.0;11.0;Gentle, Quiet, Shy, Playful;United States
+Norwegian Forest Cat;12.0;16.0;8.0;16.0;Sweet, Active, Intelligent, Social, Playful, Lively, Curious;Norway
+Ocicat;12.0;14.0;7.0;15.0;Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social;United States
+Oriental;12.0;14.0;5.0;10.0;Energetic, Affectionate, Intelligent, Social, Playful, Curious;United States
+Persian;14.0;15.0;9.0;14.0;Affectionate, loyal, Sedate, Quiet;Iran (Persia)
+Pixie-bob;13.0;16.0;8.0;17.0;Affectionate, Social, Intelligent, Loyal;United States
+Ragamuffin;12.0;16.0;8.0;20.0;Affectionate, Friendly, Gentle, Calm;United States
+Ragdoll;12.0;17.0;12.0;20.0;Affectionate, Friendly, Gentle, Quiet, Easygoing;United States
+Russian Blue;10.0;16.0;5.0;11.0;Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet;Russia
+Savannah;17.0;20.0;8.0;25.0;Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate;United States
+Scottish Fold;11.0;14.0;5.0;11.0;Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving;United Kingdom
+Selkirk Rex;14.0;15.0;6.0;16.0;Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social;United States
+Siamese;12.0;15.0;8.0;15.0;Active, Agile, Clever, Sociable, Loving, Energetic;Thailand
+Siberian;12.0;15.0;8.0;16.0;Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate;Russia
+Singapura;12.0;15.0;5.0;8.0;Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal;Singapore
+Snowshoe;14.0;19.0;7.0;12.0;Affectionate, Social, Intelligent, Sweet-tempered;United States
+Somali;12.0;16.0;6.0;12.0;Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal;Somalia
+Sphynx;12.0;14.0;6.0;12.0;Loyal, Inquisitive, Friendly, Quiet, Gentle;Canada
+Tonkinese;14.0;16.0;6.0;12.0;Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate;Canada
+Toyger;12.0;15.0;7.0;15.0;Playful, Social, Intelligent;United States
+Turkish Angora;15.0;18.0;5.0;10.0;Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social;Turkey
+Turkish Van;12.0;17.0;7.0;20.0;Agile, Intelligent, Loyal, Playful, Energetic;Turkey
+York Chocolate;13.0;15.0;12.0;18.0;Playful, Social, Intelligent, Curious, Friendly;United States

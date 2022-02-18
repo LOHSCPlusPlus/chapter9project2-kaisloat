@@ -1,0 +1,105 @@
+Affenpinscher;Toy;Small rodent hunting, lapdog;10.0;12.0;9.0;12.0;6.0;13.0;Stubborn, Curious, Playful, Adventurous, Active, Fun-loving
+Afghan Hound;Hound;Coursing and hunting;10.0;13.0;25.0;27.0;50.0;60.0;Aloof, Clownish, Dignified, Independent, Happy
+Airedale Terrier;Terrier;Badger, otter hunting;10.0;13.0;21.0;23.0;40.0;65.0;Outgoing, Friendly, Alert, Confident, Intelligent, Courageous
+Akbash Dog;Working;Sheep guarding;10.0;12.0;28.0;34.0;90.0;120.0;Loyal, Independent, Intelligent, Brave
+Akita;Working;Hunting bears;10.0;14.0;24.0;28.0;65.0;115.0;Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous
+Alapaha Blue Blood Bulldog;Mixed;Guarding;12.0;13.0;18.0;24.0;55.0;90.0;Loving, Protective, Trainable, Dutiful, Responsible
+Alaskan Husky;Mixed;Sled pulling;10.0;13.0;23.0;26.0;38.0;50.0;Friendly, Energetic, Loyal, Gentle, Confident
+Alaskan Malamute;Working;Hauling heavy freight, Sled pulling;12.0;15.0;23.0;25.0;65.0;100.0;Friendly, Affectionate, Devoted, Loyal, Dignified, Playful
+American Eskimo Dog;Non-Sporting;Circus performer;12.0;15.0;15.0;19.0;20.0;40.0;Friendly, Alert, Reserved, Intelligent, Protective
+American Foxhound;Hound;Fox hunting, scent hound;8.0;15.0;21.0;28.0;65.0;75.0;Kind, Sweet-Tempered, Loyal, Independent, Intelligent, Loving
+American Pit Bull Terrier;Terrier;Fighting;10.0;15.0;17.0;21.0;30.0;60.0;Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous
+American Water Spaniel;Sporting;Bird flushing and retrieving;10.0;12.0;15.0;18.0;25.0;45.0;Friendly, Energetic, Obedient, Intelligent, Protective, Trainable
+Anatolian Shepherd Dog;Working;Livestock herding;11.0;13.0;27.0;29.0;80.0;150.0;Steady, Bold, Independent, Confident, Intelligent, Proud
+Australian Kelpie;Herding;Farm dog, Cattle herding;10.0;13.0;17.0;20.0;31.0;46.0;Friendly, Energetic, Alert, Loyal, Intelligent, Eager
+Australian Shepherd;Herding;Sheep herding;12.0;16.0;18.0;23.0;35.0;65.0;Good-natured, Affectionate, Intelligent, Active, Protective
+Azawakh;Hound;Livestock guardian, hunting;10.0;13.0;23.0;29.0;33.0;55.0;Aloof, Affectionate, Attentive, Rugged, Fierce, Refined
+Basenji;Hound;Hunting;10.0;12.0;16.0;17.0;22.0;24.0;Affectionate, Energetic, Alert, Curious, Playful, Intelligent
+Basset Bleu de Gascogne;Hound;Hunting on foot.;10.0;14.0;13.0;15.0;35.0;40.0;Affectionate, Lively, Agile, Curious, Happy, Active
+Beagle;Hound;Rabbit, hare hunting;13.0;16.0;13.0;15.0;20.0;35.0;Amiable, Even Tempered, Excitable, Determined, Gentle, Intelligent
+Beauceron;Herding;Boar herding, hunting, guarding;10.0;12.0;24.0;28.0;80.0;110.0;Fearless, Friendly, Intelligent, Protective, Calm
+Bedlington Terrier;Terrier;Killing rat, badger, other vermin;14.0;16.0;15.0;16.0;17.0;23.0;Affectionate, Spirited, Intelligent, Good-tempered
+Belgian Malinois;Herding;Stock herding;12.0;14.0;22.0;26.0;40.0;80.0;Watchful, Alert, Stubborn, Friendly, Confident, Hard-working, Active, Protective
+Belgian Tervuren;Herding;Guarding, Drafting, Police work.;10.0;12.0;22.0;26.0;40.0;65.0;Energetic, Alert, Loyal, Intelligent, Attentive, Protective
+Bernese Mountain Dog;Working;Draft work;7.0;10.0;23.0;28.0;65.0;120.0;Affectionate, Loyal, Intelligent, Faithful
+Black and Tan Coonhound;Hound;Hunting raccoons, night hunting;10.0;12.0;23.0;27.0;65.0;100.0;Easygoing, Gentle, Adaptable, Trusting, Even Tempered, Lovable
+Bloodhound;Hound;Trailing;8.0;10.0;23.0;27.0;80.0;110.0;Stubborn, Affectionate, Gentle, Even Tempered
+Bluetick Coonhound;Hound;Hunting with a superior sense of smell.;12.0;14.0;21.0;27.0;45.0;80.0;Friendly, Intelligent, Active
+Boerboel;Working;Guarding the homestead, farm work.;10.0;12.0;22.0;27.0;110.0;200.0;Obedient, Confident, Intelligent, Dominant, Territorial
+Border Terrier;Terrier;Fox bolting, ratting;12.0;14.0;11.0;16.0;12.0;16.0;Fearless, Affectionate, Alert, Obedient, Intelligent, Even Tempered
+Boston Terrier;Non-Sporting;Ratting, Companionship;11.0;13.0;16.0;17.0;10.0;25.0;Friendly, Lively, Intelligent
+Bouvier des Flandres;Herding;Cattle herding;10.0;15.0;24.0;28.0;70.0;110.0;Protective, Loyal, Gentle, Intelligent, Familial, Rational
+Boxer;Working;Bull-baiting, guardian;8.0;10.0;22.0;25.0;50.0;70.0;Devoted, Fearless, Friendly, Cheerful, Energetic, Loyal, Playful, Confident, Intelligent, Bright, Brave, Calm
+Boykin Spaniel;Sporting;Turkey retrieving;10.0;14.0;14.0;18.0;25.0;40.0;Friendly, Energetic, Companionable, Intelligent, Eager, Trainable
+Bracco Italiano;Sporting;Versatile gun dog;10.0;12.0;22.0;27.0;55.0;88.0;Stubborn, Affectionate, Loyal, Playful, Companionable, Trainable
+Briard;Herding;Herding, guarding sheep;10.0;12.0;22.0;27.0;70.0;90.0;Fearless, Loyal, Obedient, Intelligent, Faithful, Protective
+Brittany;Sporting;Pointing, retrieving;12.0;14.0;18.0;21.0;30.0;45.0;Agile, Adaptable, Quick, Intelligent, Attentive, Happy
+Bullmastiff;Working;Estate guardian;8.0;12.0;24.0;27.0;100.0;130.0;Docile, Reliable, Devoted, Alert, Loyal, Reserved, Loving, Protective, Powerful, Calm, Courageous
+Cairn Terrier;Terrier;Bolting of otter, foxes, other vermin;14.0;15.0;9.0;10.0;13.0;14.0;Hardy, Fearless, Assertive, Gay, Intelligent, Active
+Cane Corso;Working;Companion, guard dog, and hunter;10.0;11.0;24.0;28.0;88.0;120.0;Trainable, Reserved, Stable, Quiet, Even Tempered, Calm
+Cardigan Welsh Corgi;Herding;Cattle droving;12.0;14.0;11.0;13.0;25.0;38.0;Affectionate, Devoted, Alert, Companionable, Intelligent, Active
+Catahoula Leopard Dog;Herding;Driving livestock;10.0;12.0;20.0;26.0;50.0;95.0;Energetic, Inquisitive, Independent, Gentle, Intelligent, Loving
+Caucasian Shepherd (Ovcharka);Working;Guard dogs, defending sheep from predators, mainly wolves, jackals and bears;10.0;12.0;24.0;34.0;80.0;100.0;Alert, Quick, Dominant, Powerful, Calm, Strong
+Cavalier King Charles Spaniel;Toy;Flushing small birds, companion;10.0;14.0;12.0;13.0;13.0;18.0;Fearless, Affectionate, Sociable, Patient, Playful, Adaptable
+Chinese Crested;Toy;Ratting, lapdog, curio;10.0;14.0;11.0;13.0;10.0;13.0;Affectionate, Sweet-Tempered, Lively, Alert, Playful, Happy
+Chinook;Working;Sled pulling;12.0;15.0;22.0;26.0;50.0;90.0;Friendly, Alert, Dignified, Intelligent, Calm
+Chow Chow;Non-Sporting;Guardian, cart pulling, hunting;12.0;15.0;17.0;20.0;40.0;70.0;Aloof, Loyal, Independent, Quiet
+Clumber Spaniel;Sporting;Bird flushing, retrieving;10.0;12.0;17.0;20.0;55.0;85.0;Affectionate, Loyal, Dignified, Gentle, Calm, Great-hearted
+Cocker Spaniel (American);Sporting;Hunting the American woodcock;12.0;15.0;14.0;15.0;20.0;30.0;Outgoing, Sociable, Trusting, Joyful, Even Tempered, Merry
+Coton de Tulear;Non-Sporting;Accompanying ladies on long sea voyages, ratters onboard ship.;13.0;16.0;9.0;11.0;9.0;15.0;Affectionate, Lively, Playful, Intelligent, Trainable, Vocal
+Dalmatian;Non-Sporting;Carriage dog - trot alongside carriages to protect the occupants from banditry or other interference;10.0;13.0;19.0;23.0;50.0;55.0;Outgoing, Friendly, Energetic, Playful, Sensitive, Intelligent, Active
+Dogo Argentino;Working;Big-game hunting;10.0;12.0;24.0;27.0;80.0;100.0;Friendly, Affectionate, Cheerful, Loyal, Tolerant, Protective
+English Shepherd;Working;Herding & guarding livestock, farm watch dog;10.0;13.0;18.0;23.0;44.0;66.0;Kind, Energetic, Independent, Adaptable, Intelligent, Bossy
+English Springer Spaniel;Sporting;Bird flushing, retrieving;12.0;14.0;19.0;20.0;35.0;50.0;Affectionate, Cheerful, Alert, Intelligent, Attentive, Active
+Eurasier;Non-Sporting;Companionship;12.0;14.0;21.0;24.0;40.0;70.0;Alert, Reserved, Intelligent, Even Tempered, Watchful, Calm
+Field Spaniel;Sporting;Bird flushing, retrieving;11.0;15.0;17.0;18.0;35.0;50.0;Docile, Cautious, Sociable, Sensitive, Adaptable, Familial
+Finnish Lapphund;Herding;Herding reindeer;12.0;15.0;16.0;21.0;33.0;53.0;Friendly, Keen, Faithful, Calm, Courageous
+German Pinscher;Working;Watchdog, Hunting vermin on the farm.;12.0;14.0;17.0;20.0;25.0;45.0;Spirited, Lively, Intelligent, Loving, Even Tempered, Familial
+German Shepherd Dog;Herding;Herding, Guard dog;10.0;13.0;22.0;26.0;50.0;90.0;Alert, Loyal, Obedient, Curious, Confident, Intelligent, Watchful, Courageous
+German Shorthaired Pointer;Sporting;General hunting;12.0;14.0;21.0;25.0;45.0;70.0;Boisterous, Bold, Affectionate, Intelligent, Cooperative, Trainable
+Giant Schnauzer;Working;Herding, guarding;10.0;12.0;24.0;28.0;65.0;90.0;Strong Willed, Kind, Loyal, Intelligent, Dominant, Powerful
+Glen of Imaal Terrier;Terrier;Rid the home and farm of vermin, and hunt badger and fox;12.0;15.0;13.0;14.0;32.0;40.0;Spirited, Agile, Loyal, Gentle, Active, Courageous
+Golden Retriever;Sporting;Retrieving;10.0;12.0;22.0;24.0;55.0;75.0;Intelligent, Kind, Reliable, Friendly, Trustworthy, Confident
+Gordon Setter;Sporting;Find and point gamebirds;10.0;12.0;23.0;27.0;45.0;80.0;Fearless, Alert, Loyal, Confident, Gay, Eager
+Great Dane;Working;Hunting & holding boars, Guardian;7.0;10.0;28.0;32.0;110.0;190.0;Friendly, Devoted, Reserved, Gentle, Confident, Loving
+Great Pyrenees;Working;Sheep guardian;10.0;12.0;25.0;32.0;85.0;115.0;Strong Willed, Fearless, Affectionate, Patient, Gentle, Confident
+Greyhound;Hound;Coursing hares;10.0;13.0;27.0;30.0;50.0;70.0;Affectionate, Athletic, Gentle, Intelligent, Quiet, Even Tempered
+Harrier;Hound;Hunting hares by trailing them;12.0;15.0;18.0;22.0;40.0;60.0;Outgoing, Friendly, Cheerful, Sweet-Tempered, Tolerant, Active
+Havanese;Toy;Companionship;14.0;15.0;9.0;12.0;7.0;13.0;Affectionate, Responsive, Playful, Companionable, Gentle, Intelligent
+Irish Setter;Sporting;Bird setting, retrieving;10.0;11.0;24.0;27.0;35.0;70.0;Affectionate, Energetic, Lively, Independent, Playful, Companionable
+Irish Wolfhound;Hound;Coursing wolves, elk;6.0;8.0;30.0;35.0;105.0;180.0;Sweet-Tempered, Loyal, Dignified, Patient, Thoughtful, Generous
+Italian Greyhound;Toy;Lapdog;12.0;15.0;13.0;15.0;7.0;15.0;Mischievous, Affectionate, Agile, Athletic, Companionable, Intelligent
+Japanese Chin;Toy;Lapdog;12.0;14.0;8.0;11.0;4.0;9.0;Alert, Loyal, Independent, Intelligent, Loving, Cat-like
+Keeshond;Non-Sporting;Barge watchdog;12.0;15.0;17.0;18.0;35.0;45.0;Agile, Obedient, Playful, Quick, Sturdy, Bright
+Komondor;Working;Sheep guardian;10.0;12.0;26.0;28.0;80.0;100.0;Steady, Fearless, Affectionate, Independent, Gentle, Calm
+Kuvasz;Working;Guardian, hunting large game;8.0;10.0;26.0;30.0;70.0;115.0;Clownish, Loyal, Patient, Independent, Intelligent, Protective
+Labrador Retriever;Sporting;Water retrieving;10.0;13.0;22.0;25.0;55.0;80.0;Kind, Outgoing, Agile, Gentle, Intelligent, Trusting, Even Tempered
+Lagotto Romagnolo;Sporting;Water retrieval dog in the marshes of Romagna;14.0;16.0;16.0;19.0;24.0;35.0;Keen, Loyal, Companionable, Loving, Active, Trainable
+Leonberger;Working;Guardian, appearance.;6.0;8.0;26.0;32.0;120.0;170.0;Obedient, Fearless, Loyal, Companionable, Adaptable, Loving
+Lhasa Apso;Non-Sporting;Guarding inside the home, companion;12.0;15.0;10.0;11.0;12.0;18.0;Steady, Fearless, Friendly, Devoted, Assertive, Spirited, Energetic, Lively, Alert, Obedient, Playful, Intelligent
+Maltese;Toy;Lapdog;15.0;18.0;8.0;10.0;4.0;7.0;Playful, Docile, Fearless, Affectionate, Sweet-Tempered, Lively, Responsive, Easygoing, Gentle, Intelligent, Active
+Miniature Schnauzer;Terrier;Ratting;12.0;14.0;12.0;14.0;11.0;20.0;Fearless, Friendly, Spirited, Alert, Obedient, Intelligent
+Newfoundland;Working;All purpose water dog, fishing aid;8.0;10.0;26.0;28.0;100.0;150.0;Sweet-Tempered, Gentle, Trainable
+Norfolk Terrier;Terrier;Ratting, fox bolting;12.0;15.0;9.0;10.0;11.0;12.0;Self-confidence, Fearless, Spirited, Companionable, Happy, Lovable
+Papillon;Toy;Lapdog;13.0;17.0;8.0;11.0;3.0;12.0;Hardy, Friendly, Energetic, Alert, Intelligent, Happy
+Pembroke Welsh Corgi;Herding;Driving stock to market in northern Wales;12.0;14.0;10.0;12.0;25.0;30.0;Tenacious, Outgoing, Friendly, Bold, Playful, Protective
+Pharaoh Hound;Hound;Hunting rabbits;12.0;14.0;21.0;25.0;40.0;60.0;Affectionate, Sociable, Playful, Intelligent, Active, Trainable
+Plott;Hound;Hunting big-game like Boar.;12.0;14.0;20.0;25.0;40.0;60.0;Bold, Alert, Loyal, Intelligent
+Pug;Toy;Lapdog;12.0;14.0;10.0;12.0;14.0;18.0;Docile, Clever, Charming, Stubborn, Sociable, Playful, Quiet, Attentive
+Redbone Coonhound;Hound;Hunting raccoon, deer, bear, and cougar.;10.0;12.0;21.0;27.0;45.0;80.0;Affectionate, Energetic, Independent, Companionable, Familial, Unflappable
+Rhodesian Ridgeback;Hound;Big game hunting, guarding;10.0;12.0;24.0;27.0;75.0;80.0;Strong Willed, Mischievous, Loyal, Dignified, Sensitive, Intelligent
+Rottweiler;Working;Cattle drover, guardian, draft;8.0;10.0;22.0;27.0;75.0;110.0;Steady, Good-natured, Fearless, Devoted, Alert, Obedient, Confident, Self-assured, Calm, Courageous
+Samoyed;Working;Herding reindeer, guardian, draft;12.0;14.0;19.0;24.0;50.0;60.0;Stubborn, Friendly, Sociable, Lively, Alert, Playful
+Schipperke;Non-Sporting;Barge watchdog;13.0;15.0;10.0;13.0;10.0;16.0;Fearless, Agile, Curious, Independent, Confident, Faithful
+Scottish Deerhound;Hound;Coursing deer;8.0;10.0;28.0;32.0;70.0;130.0;Docile, Friendly, Dignified, Gentle
+Shih Tzu;Toy;Lapdog;10.0;18.0;8.0;11.0;9.0;16.0;Clever, Spunky, Outgoing, Friendly, Affectionate, Lively, Alert, Loyal, Independent, Playful, Gentle, Intelligent, Happy, Active, Courageous
+Silky Terrier;Toy;Small vermin hunting, companionship;12.0;15.0;9.0;10.0;8.0;10.0;Friendly, Responsive, Inquisitive, Alert, Quick, Joyful
+Soft Coated Wheaten Terrier;Terrier;Vermin hunting, guarding, all-around farm helper;12.0;15.0;16.0;18.0;30.0;40.0;Affectionate, Spirited, Energetic, Playful, Intelligent, Faithful
+Spanish Water Dog;Sporting;Herding flocks of sheep and goats from one pasture to another;12.0;15.0;16.0;20.0;30.0;50.0;Trainable, Diligent, Affectionate, Loyal, Athletic, Intelligent
+Vizsla;Sporting;Pointing and trailing;10.0;14.0;21.0;24.0;50.0;65.0;Affectionate, Energetic, Loyal, Gentle, Quiet
+Weimaraner;Sporting;Large game trailing and versatile gundog;12.0;15.0;23.0;27.0;55.0;90.0;Steady, Aloof, Stubborn, Energetic, Alert, Intelligent, Powerful, Fast
+Welsh Springer Spaniel;Sporting;Flushing and retrieving birds;12.0;15.0;17.0;19.0;35.0;55.0;Stubborn, Friendly, Affectionate, Loyal, Playful, Active
+West Highland White Terrier;Terrier;Fox, badger, vermin hunting;15.0;20.0;10.0;11.0;15.0;22.0;Hardy, Friendly, Alert, Independent, Gay, Active, Courageous
+Whippet;Hound;Coursing, racing;12.0;15.0;18.0;22.0;25.0;35.0;Friendly, Affectionate, Lively, Gentle, Intelligent, Quiet
+Wirehaired Pointing Griffon;Sporting;Gundog, ;swamp-tromping;, Flushing, pointing, and retrieving water fowl & game birds;12.0;14.0;20.0;24.0;45.0
+Yorkshire Terrier;Toy;Small vermin hunting;12.0;16.0;8.0;9.0;4.0;7.0;Bold, Independent, Confident, Intelligent, Courageous
